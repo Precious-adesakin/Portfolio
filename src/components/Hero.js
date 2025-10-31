@@ -9,7 +9,7 @@ export default function Hero() {
     <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 text-white px-4">
       <div className="text-center max-w-4xl mx-auto">
         <h1 className="text-5xl md:text-7xl font-bold mb-4">
-          Hi, I'm <span className="text-cyan-400">Chukwudi Okeke</span>
+          Hi, I'm <span className="text-cyan-400">Olabode Precious</span>
         </h1>
 
         <TypeAnimation
